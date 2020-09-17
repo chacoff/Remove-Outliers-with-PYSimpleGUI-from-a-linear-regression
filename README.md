@@ -7,4 +7,5 @@ I modified it in order i can load my own csv, plot them and remove the outliers 
 For the moment is deleting one by one, but soon i'll modify to select all what you want and then delete these
 
 Example:
-![](2020-09-17 22h10_44.gif)
+
+[](2020-09-17 22h10_44.gif)
