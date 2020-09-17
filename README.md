@@ -8,4 +8,4 @@ For the moment is deleting one by one, but soon i'll modify to select all what y
 
 Example:
 
-![Outliers Demo](2020-09-17 22h10_44.gif)
+![Outliers Demo](Remove-Outliers-with-PYSimpleGUI-from-a-linear-regression/2020-09-17 22h10_44.gif)
