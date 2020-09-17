@@ -8,4 +8,4 @@ For the moment is deleting one by one, but soon i'll modify to select all what y
 
 Example:
 
-[](2020-09-17 22h10_44.gif)
+![Outliers Demo](2020-09-17 22h10_44.gif)
